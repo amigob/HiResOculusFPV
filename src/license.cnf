@@ -1,0 +1,15 @@
+Name = "VR FPV";
+LicenseNr = 1;
+Options : 
+{
+   Deinterlace = "not allowed";
+   Video3D = "not allowed";   
+   VideoRecording = "not allowed";
+};
+
+License : 
+{
+  Name = "Free license";
+  Email = "bart.keser&vrFPV.nl"
+  PayInfo = "";    
+};

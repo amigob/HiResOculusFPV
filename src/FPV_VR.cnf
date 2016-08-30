@@ -1,0 +1,8 @@
+name = "";
+VideoCorrection : 
+{
+  Eye_dis = -0.08;
+  Barrel_dis = -0.07;
+  Image_zoom = 3.3;
+  Image_position = 0.22;
+};
